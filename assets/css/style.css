@@ -199,12 +199,12 @@ footer span{
 footer #mango{
     width: 65px;
      height: 30px;
-    background:url(/img/down-foot.svg);
+    background:url(../img/down-foot.svg);
     background-repeat:no-repeat;
 }
 footer #mango:hover{
     transition: 0.2s;
-    background:url(/img/pr-down-foot.svg);
+    background:url(../img/pr-down-foot.svg);
     background-repeat:no-repeat;
 }
 @media (max-width:1600px) {
